@@ -21,16 +21,16 @@ In this project python was used to build predictive models. NLP (Natural Languag
 
 To run the code, there were a number of Python libraries that needed to be installed. These are as follows:
 
-* ●	Pandas
-* ●	NumPy
-* ●	Matplotlib
-* ●	Seaborn
-* ●	Nltk corpus
-* ●	Stopwords
-* ●	WordNetlemitizer
-* ●	WordCloud
-* ●	Tfidfvectorizer
-* ●	Cosine_similarity
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Nltk corpus
+* Stopwords
+* WordNetlemitizer
+* WordCloud
+* Tfidfvectorizer
+* Cosine_similarity
 
 
 # Summary/Findings
